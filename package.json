@@ -1,6 +1,6 @@
 {
   "name": "@sijils/resume-cli",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "this is a sample resume cli app",
   "main": "cli.js",
   "scripts": {
@@ -16,6 +16,11 @@
   "bin": {
     "resume": "./cli.js"
   },
-  "repository":"git://github.com/sijils/resume.git",
+  
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/sijils/resume.git"
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "devDependencies": {}
 }
