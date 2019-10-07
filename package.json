@@ -1,0 +1,21 @@
+{
+  "name": "@sijils/resume-cli",
+  "version": "1.0.0",
+  "description": "this is a sample resume cli app",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.2.2",
+    "yargs": "^13.3.0"
+  },
+  "bin": {
+    "resume": "./cli.js"
+  },
+  "repository":"git://github.com/sijils/resume.git",
+  "devDependencies": {}
+}
