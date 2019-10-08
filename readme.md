@@ -30,4 +30,4 @@ A sample json is shown below
     ]
     }
 
-![On Start](/home/sijils/Pictures/resumeNode.png)
+![alt text](/home/sijils/Pictures/resumeNode.png)
