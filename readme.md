@@ -1,6 +1,10 @@
 **Installation**
 
-npm install @sijils/resume
+Set the registry in .npmrc file as :
+    registry=https://npm.pkg.github.com/sijils
+
+Install the module by running the following command
+    npm install @sijils/resume
 
 **Usage**
 
