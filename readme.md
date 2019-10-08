@@ -29,3 +29,5 @@ A sample json is shown below
         "youknow@wheretofind.me"
     ]
     }
+
+![On Start](/home/sijils/Pictures/resumeNode.png)
