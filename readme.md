@@ -30,5 +30,10 @@ A sample json is shown below
     ]
     }
 
+Run the command : resume -r <resume json file>
+    
 ![one](/images/resumeNode.png)
+
+Iterate through each of the json array keys using the utility with ENTER key
+
 ![two](/images/resumeNode2.png)
