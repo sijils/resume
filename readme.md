@@ -1,3 +1,9 @@
+**Installation**
+
+npm install @sijils/resume
+
+**Usage**
+
 This CLI app accepts a json file containing the resume details and uses this data to interact with the resume as a node utility.
 Provide the full path (or relative path if the current folder contains the json file) as argument to -r flag. A sample command is given below:
 
@@ -30,7 +36,7 @@ A sample json is shown below
     ]
     }
 
-Run the command : resume -r <resume json file>
+Run the command : resume -r *resume_json_file*
     
 ![one](/images/resumeNode.png)
 
